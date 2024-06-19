@@ -3,6 +3,7 @@ import React from "react";
 function WeatherDisplay({ temperature, condition }) {
     console.log(temperature)
     console.log(condition)
+    temperature =25;
 
     return (
         <div>
